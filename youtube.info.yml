@@ -1,0 +1,10 @@
+name: YouTube Field
+type: module
+description: 'Het Youtube video field type.'
+package: Field types
+dependencies:
+  - field
+  - image
+  - file
+core: '8.x'
+project: 'youtube'
